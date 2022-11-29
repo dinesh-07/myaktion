@@ -3,6 +3,9 @@
 ## The service myaktion supports fund raisers in their work to collect donations for campaigns
 online.
 
+## API Testing
+![](arc.png)
+
 ## H2 database
 H2 Console URL http://localhost:8080/h2
 
